@@ -54,6 +54,10 @@ class _AnimationExampleState extends State<AnimationExample>
                 left: rectTween.value.left,
                 child: Padding(
                   padding: EdgeInsets.all(8),
+
+
+
+                  ///wwwww
                   child: child,
                 ),
               ),
